@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b35a832d-96a2-4571-9b39-0fd5ac3cbd53" name="Changes" comment="fixes (nine()) things didnt saved last time">
-      <change afterPath="$PROJECT_DIR$/flasky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson1/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson1/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson1/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson1/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson2/6(assignment).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson2/importFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson3/10(error handling).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson3/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson3/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson3/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson3/names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson3/names2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson3/names3.txt" afterDir="false" />
+    <list default="true" id="b35a832d-96a2-4571-9b39-0fd5ac3cbd53" name="Changes" comment="lesson 3 assignment almost done">
+      <change afterPath="$PROJECT_DIR$/.idea/DevOps_Course_2710.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flasky.py" beforeDir="false" afterPath="$PROJECT_DIR$/flasky.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/names.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +44,7 @@
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\on_lessons\lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.flasky">
+  <component name="RunManager" selected="Python.lesson3">
     <configuration name="10(error handling)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DevOps_Course_2710" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,8 +173,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.flasky" />
         <item itemvalue="Python.lesson3" />
+        <item itemvalue="Python.flasky" />
         <item itemvalue="Python.9" />
         <item itemvalue="Python.10(error handling)" />
         <item itemvalue="Python.7" />
@@ -213,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668097047055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson 3 assignment almost done">
+      <created>1668642181516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668642181516</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +227,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixes (nine()) things didnt saved last time" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes (nine()) things didnt saved last time" />
+    <MESSAGE value="lesson 3 assignment almost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 assignment almost done" />
   </component>
 </project>
