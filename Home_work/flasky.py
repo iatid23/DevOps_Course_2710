@@ -12,7 +12,7 @@ app = Flask(__name__)
 #
 @app.route("/content")
 def ret_content():
-    filenames = next(walk('./'), (None, None, []))[2]  # [] if no file
+    filenames = next(walk('../'), (None, None, []))[2]  # [] if no file
     for file in filenames:
         if file.endswith('txt'):
             content = open(file, 'r', encoding='utf-8')
@@ -24,7 +24,7 @@ def ret_content():
 
 @app.route("/register")
 def register():
-    filenames = next(walk('./'), (None, None, []))[2]  # [] if no file
+    filenames = next(walk('../'), (None, None, []))[2]  # [] if no file
     for file in filenames:
         if file.endswith('txt'):
 
