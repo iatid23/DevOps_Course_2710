@@ -1,0 +1,24 @@
+1669585449946	geckodriver	INFO	Listening on 127.0.0.1:56156
+1669585450407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\itamara\\AppData\\Local\\Temp\\rust_mozprofileEPbg6r"
+1669585450872	Marionette	INFO	Marionette enabled
+1669585450878	Marionette	INFO	Listening on port 56178
+WebDriver BiDi listening on ws://127.0.0.1:56157
+Read port: 56178
+1669585451135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itamara\\AppData\\Local\\Temp\\rust_mozprofileEPbg6r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56157/devtools/browser/f94e62be-8821-40b5-ab91-fb654e4a0c54
+1669586271376	geckodriver	INFO	Listening on 127.0.0.1:59332
+1669586271877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\itamara\\AppData\\Local\\Temp\\rust_mozprofileq5SC9U"
+1669586272379	Marionette	INFO	Marionette enabled
+1669586272385	Marionette	INFO	Listening on port 59350
+Read port: 59350
+WebDriver BiDi listening on ws://127.0.0.1:59333
+1669586272487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itamara\\AppData\\Local\\Temp\\rust_mozprofileq5SC9U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59333/devtools/browser/98f95d82-69af-4979-a7c9-e365c5aa0ce9
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1098: TypeError: title is null
+1669586412086	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669586412090	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669586423455	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
