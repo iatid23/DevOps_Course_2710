@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b35a832d-96a2-4571-9b39-0fd5ac3cbd53" name="Changes" comment="lesson 3 assignment  done">
-      <change afterPath="$PROJECT_DIR$/Lesson4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/.idea/tip_calc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/tip_calc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/tip_calc/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/tip_calc/tip_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on_lessons/lesson 4/tip_calc/tip_calc/tipcalculator.js" afterDir="false" />
+    <list default="true" id="b35a832d-96a2-4571-9b39-0fd5ac3cbd53" name="Changes" comment="lesson 4 assignment   allmost done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flasky.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_work/flasky.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_work/lesson2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_work/lesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_work/Lesson4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +40,8 @@
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\on_lessons\lesson1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\on_lessons\lesson 4" />
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\Home_work" />
+      <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\on_lessons\lesson 4" />
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710" />
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\on_lessons" />
     </key>
@@ -90,11 +76,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_work/Lesson4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DevOps_Course_2710" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\itamara\OneDrive\DevOps_Course_2710\Home_work\Lesson4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,10 +197,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Lesson4 (1)" />
+        <item itemvalue="Python.Lesson4 (1)" />
         <item itemvalue="Python.Lesson4" />
         <item itemvalue="Python.lesson3" />
         <item itemvalue="Python.flasky" />
-        <item itemvalue="Python.9" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668701286035</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson 4 assignment   allmost done">
+      <created>1670774410020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670774410020</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 4 assignment   allmost done">
+      <created>1670774474218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670774474218</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +280,7 @@
     <MESSAGE value="fixes (nine()) things didnt saved last time" />
     <MESSAGE value="lesson 3 assignment almost done" />
     <MESSAGE value="lesson 3 assignment  done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 assignment  done" />
+    <MESSAGE value="lesson 4 assignment   allmost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 assignment   allmost done" />
   </component>
 </project>
