@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b35a832d-96a2-4571-9b39-0fd5ac3cbd53" name="Changes" comment="lesson 5 assignment    done">
-      <change beforePath="$PROJECT_DIR$/Home_work/Lesson5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\on_lessons\lesson1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\Home_work\Lesson5" />
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\Home_work" />
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710\on_lessons\lesson 4" />
       <recent name="C:\Users\itamara\OneDrive\DevOps_Course_2710" />
@@ -275,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671115533260</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson 5 assignment    done">
+      <created>1671115618167</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671115618167</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
